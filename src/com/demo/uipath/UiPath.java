@@ -10,7 +10,7 @@ public class UiPath {
 	private static String accessToken;
 	private static String releaseKey;
 	private int robotID = 0;
-	private String varRobotName = "ap/146686-unattended";
+	private String varRobotName = "your-robot-name";
 	
 	private String tenant_name = "DefaultTenant";
 	private String content_type = "application/json";
